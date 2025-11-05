@@ -5,6 +5,8 @@ A real-time collaborative drawing application where multiple users can draw simu
 
 Built with Node.js, Express, Socket.IO, and Vanilla JavaScript using the HTML5 Canvas API.
 
+Live Preview - https://collaborative-canvas-falm-assigment.onrender.com/
+
 🚀 Features
 
 ✅ Real-Time Drawing — see everyone’s strokes as they happen
@@ -146,5 +148,6 @@ Add shape tools (line, rectangle, circle).
 Velag Subhash
 💻 Full Stack Developer | Passionate about Real-Time Web Apps
 📧 velagasubhash03@gmail.com
+
 
 
