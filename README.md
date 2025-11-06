@@ -50,14 +50,8 @@ npm install
 3️⃣ Start the server
 npm start
 
-4️⃣ Open in browser
-
-Visit:
-
-http://localhost:3000
 
 
-🧩 Open the same URL in two browser tabs → draw in one tab and watch it appear live in the other!
 
 ☁️ Deploying on Render
 🔧 Deployment Configuration
@@ -148,6 +142,7 @@ Add shape tools (line, rectangle, circle).
 Velag Subhash
 💻 Full Stack Developer | Passionate about Real-Time Web Apps
 📧 velagasubhash03@gmail.com
+
 
 
 
